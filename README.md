@@ -1,3 +1,7 @@
+
+#### from https://github.com/AdrianHarkness/FTCircuitBench
+#### we need this because in (patched) sims we're FT
+
 # FTCircuitBench
 
 [![CI](https://github.com/AdrianHarkness/FTCircuitBench/actions/workflows/ci.yml/badge.svg)](https://github.com/AdrianHarkness/FTCircuitBench/actions/workflows/ci.yml)
